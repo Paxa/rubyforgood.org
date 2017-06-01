@@ -21,7 +21,7 @@ We can and have built other kinds of software and this is only to give you an id
 
 Listen to what one of our amazing partner organizations from 2016 had to say:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kON0NSr6qk8" frameborder="0" allowfullscreen></iframe>
+<iframe style="width: 100%; max-width: 560px" height="315" src="https://www.youtube.com/embed/kON0NSr6qk8" frameborder="0" allowfullscreen></iframe>
 
 
 #### What do we need from you?
